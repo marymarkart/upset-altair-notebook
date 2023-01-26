@@ -16,3 +16,7 @@ Start Jupyter with the Python kernel:
 conda activate upset-altair-env
 jupyter notebook
 ```
+
+### Source
+
+This notebook was cloned from https://github.com/hms-dbmi/upset-altair-notebook and modified by Jose-Velasco for this research project
